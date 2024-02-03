@@ -1,113 +1,113 @@
-# # # bank="sbi"
-# # # user="reshi"
-# # # print(user,"has a fixed in",bank)
+# bank="sbi"
+# user="reshi"
+# print(user,"has a fixed in",bank)
 
-# # # num1=10
-# # # num2=50
-# # # print(num1+num2)
-# # # print(num2-num1)
-# # # print(num1/num2)
-# # # print(num1*num2)
+# num1=10
+# num2=50
+# print(num1+num2)
+# print(num2-num1)
+# print(num1/num2)
+# print(num1*num2)
 
-# # # a=2
-# # # b=3
-# # # c=a
-# # # a=b
-# # # b=c
-# # # print(a,b)
+# a=2
+# b=3
+# c=a
+# a=b
+# b=c
+# print(a,b)
 
-# # # institute="luminar"
-# # # course="PY-Django fullstack"
-# # # place="ekm"
-# # # time=3
-# # # # i am doing PY-Djnago fullstack in luminar at ekm at 3
+# institute="luminar"
+# course="PY-Django fullstack"
+# place="ekm"
+# time=3
+# # i am doing PY-Djnago fullstack in luminar at ekm at 3
 
-# # # # print("i am doing",course,"in",institute,"at",place,"at",time)
+# print("i am doing",course,"in",institute,"at",place,"at",time)
 
-# # # # name=input("enter u r name")
-# # # # place=input("where r u from",)
-# # # # print=input("i am",name,"from",place)
+# name=input("enter u r name")
+# place=input("where r u from",)
+# print=input("i am",name,"from",place)
 
-# # # #num1=int(input("enter your number"))
-# # # #num2=int(input("enter the number"))
-# # # #num3=int(input("enter the number"))
-# # # #a=num1+num2
-# # # #print("the answer is = ",a*num3)
+#num1=int(input("enter your number"))
+#num2=int(input("enter the number"))
+#num3=int(input("enter the number"))
+#a=num1+num2
+#print("the answer is = ",a*num3)
 
-# # # #name=input("enter u r name")
-# # # #age=int(input("enter u r age"))
-# # # #print("hey",name,"u r age will be",age+1,"next year")
+#name=input("enter u r name")
+#age=int(input("enter u r age"))
+#print("hey",name,"u r age will be",age+1,"next year")
 
-# # # #bill=int(input("enter the total amount"))
-# # # #chunks=int(input("enter the number"))
-# # # #total=bill//chunks
-# # # # division /
-# # # #floor division //  used to remove decimal value and make it round figure
-# # # #print(total)
+#bill=int(input("enter the total amount"))
+#chunks=int(input("enter the number"))
+#total=bill//chunks
+# division /
+#floor division //  used to remove decimal value and make it round figure
+#print(total)
 
-# # # #days=int(input("number of days"))
-# # # #hours=days*24
-# # # #minutes=hours*60
-# # # #print("In ",days,"days there are ",hours,"hours and",minutes,"minutes")
+#days=int(input("number of days"))
+#hours=days*24
+#minutes=hours*60
+#print("In ",days,"days there are ",hours,"hours and",minutes,"minutes")
 
-# # # #----------------------------------------------------conditional statements-------------------------------------------------------
+# #----------------------------------------------------conditional statements-------------------------------------------------------
 
-# # # #n=int(input("enter the number"))
-# # # #if n>10:
-# # #  #   print("greater than 10")
-# # # #else:
-# # #  #   print("less than 10")
+#n=int(input("enter the number"))
+#if n>10:
+ #   print("greater than 10")
+#else:
+ #   print("less than 10")
 
  
-# # # #name=input("enter your name")
-# # # #age=int(input("enter your age"))
-# # # #if age>18:
-# # #  #print("hey",name,"u can get the license")
-# # # #else:
-# # #  #print("hey",name,"u cant get he license")
+#name=input("enter your name")
+#age=int(input("enter your age"))
+#if age>18:
+ #print("hey",name,"u can get the license")
+#else:
+ #print("hey",name,"u cant get he license")
 
-# # # #n=int(input("enter the number"))
-# # # #if n<10:
-# # #  #   print("less than 10")
-# # # #elif n==10:
-# # #  #   print("equals 10")
-# # # #else:
-# # #  #   print("greater")
+#n=int(input("enter the number"))
+#if n<10:
+ #   print("less than 10")
+#elif n==10:
+ #   print("equals 10")
+#else:
+ #   print("greater")
 
-# # # #n1=int(input("enter the number"))
-# # # #n2=int(input("enter the number"))
-# # # #if n1>n2:
-# # #  #   print(n2,n1)
-# # # #elif n2>n1:
-# # #  #   print(n1,n2)
+#n1=int(input("enter the number"))
+#n2=int(input("enter the number"))
+#if n1>n2:
+ #   print(n2,n1)
+#elif n2>n1:
+ #   print(n1,n2)
 
-# # # #n=int(input("enter the number"))
-# # # #if n>=10 and n<=20:
-# # #    # print("thank u")
+#n=int(input("enter the number"))
+#if n>=10 and n<=20:
+   # print("thank u")
 
-# # # #n=int(input("enter the number"))
-# # # #if n<10:
-# # #  #   print("too low")
-# # # #elif n<=10 and n>=20:
-# # #  #   print("correct")
-# # # #else:
-# # #  #   print("too high")
+#n=int(input("enter the number"))
+#if n<10:
+ #   print("too low")
+#elif n<=10 and n>=20:
+ #   print("correct")
+#else:
+ #   print("too high")
 
-# # # n=int(input("enter the number"))
-# # # if n==1:
-# # #     print("okay")
-# # # elif n==2:
-# # #     print("good")
-# # # elif n==3:
-# # #     print("well done")
-# # # else:
-# # #     print("bloody sweet")
+# n=int(input("enter the number"))
+# if n==1:
+#     print("okay")
+# elif n==2:
+#     print("good")
+# elif n==3:
+#     print("well done")
+# else:
+#     print("bloody sweet")
 
-# # color=input("enter u r color")
-# # if color=="red" or color=="RED" or color=="Red":
-# #     print("i like red too")
-# # else:
-# #     print("i prefer only red")
+# color=input("enter u r color")
+# if color=="red" or color=="RED" or color=="Red":
+#     print("i like red too")
+# else:
+#     print("i prefer only red")
       
     
 #         #modulo
@@ -128,20 +128,20 @@
 # #elif n%5==0:
 #   #  print("divisible by 5")
 
-# #nested if
-# #n=input("is it rainy")
-# #if n=="yes":
-#     #m=input("is it windy")
-#     #if m=="yes":
-#      #   p=input("is it too windy")
-#       #  if p=="yes":
-#        #        print("take care")
-#         #else:
-#          #    print("okey")               
-#     #else:
-#      #    print("enjoy")
-# #else:
-#  #    print("wwoww")
+#nested if
+#n=input("is it rainy")
+#if n=="yes":
+    #m=input("is it windy")
+    #if m=="yes":
+     #   p=input("is it too windy")
+      #  if p=="yes":
+       #        print("take care")
+        #else:
+         #    print("okey")               
+    #else:
+     #    print("enjoy")
+#else:
+ #    print("wwoww")
 
 
 # n=int(input("enter the number"))
